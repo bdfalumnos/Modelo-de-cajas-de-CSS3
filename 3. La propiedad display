@@ -1,0 +1,42 @@
+La propiedad display
+Indica la forma en que un elemento se depliega.
+
+La definición oficial de esta propiedad está en proceso de cambio.
+
+El contenido de texto no tiene la propiedad display.
+
+Esta propiedad no afecta la semántica de los elementos, pero si puede cambiar como se despliegan.
+
+Algunos valores posibles son:
+
+display: none
+El elemento completo, incluyendo todo su contenido, el contenido de su contenido y así sucesivamente no se muestra, incluyendo texto y cajas.
+
+display: block
+Contiene elementos de cualquir tipo de despliegue.
+
+De forma predeterminada, los elementos de agrupamiento como p, header footer o div tienen este tipo de despliegue, pero se puede cambiar.
+
+Si contiene solo elementos de despliegue inline, inline-block y texto, estos se despliegan de forma horizontal uno tras otro, iniciando en la parte superior del elemento. Si llega al final de un renglón, continuá al inicio del siguiente.
+
+Si contiene solo elementos de despliegue block, estos se despliegan de forma vertical uno tras otro, utilizando todo el ancho permitido por el elemento que los contiene.
+
+Si contiene mezclados elementos inline, inline-block, texto y block, los inline, inline-block y textos consecutivos se agrupan en una caja de tipo block imaginaria y se aplica el despliegue cuando todos los elementos son de tipo block.
+
+display: inline
+Solo contiene elementos de tipo inline, inline-block y texto.
+
+De forma predeterminada, los elementos de fraseo como span, em, del, o strong tienen este tipo de despliegue, pero se puede cambiar.
+
+El contenido se despliega de forma horizontal, uno tras otro. Si llega al final del elemento padre más próximo que sea block o inline-block, continuá al inicio del siguiente renglón.
+
+display: inline-block
+El nombre de este tipo de despliegue está por cambiar.
+
+De forma predeterminada, los elementos como button, o input tienen este tipo de despliegue, pero se puede cambiar.
+
+Su contenido sigue las reglas de un display block.
+
+Sus padres lo ven como un elemento inline, pero el elemento ocupa un solo renglón del elemento padre más próximo que sea block o inline-block.
+
+Su especificación está en https://www.w3.org/TR/css-display-3/#propdef-display

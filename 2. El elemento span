@@ -1,0 +1,10 @@
+El elemento span
+Es un elemento sin significado de fraseo.
+
+Puede usarse con los atributos globales, por ejemplo class, lang o dir.
+
+Se recomienda que el elemento span se utilice como último recurso cuando no se pueda usar ningún otro elemento.
+
+El uso de elementos más apropiados propicia una mejor accesibilidad para lectores y un mantenimiento más fácil para los autores.
+
+Su especificación está en https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-span-element

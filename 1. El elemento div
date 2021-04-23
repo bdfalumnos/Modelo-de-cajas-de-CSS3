@@ -1,0 +1,12 @@
+El elemento div
+Es un elemento sin significado que agrupa otros elementos.
+
+Puede usarse con los atributos class, lang y title para definir la semántica común a un grupo de elementos consecutivos.
+
+Puede usarse en un elemento dl para envolver grupos de elementos dt y dd.
+
+Se recomienda que el elemento div se utilice como último recurso cuando no se pueda usar ningún otro elemento.
+
+El uso de elementos más apropiados propicia una mejor accesibilidad para lectores y un mantenimiento más fácil para los autores.
+
+Su especificación está en https://html.spec.whatwg.org/multipage/grouping-content.html#the-div-element

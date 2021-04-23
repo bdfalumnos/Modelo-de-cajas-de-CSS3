@@ -1,0 +1,62 @@
+Márgenes
+Se pueden especificar con las siguientes propiedades:
+
+margin-top
+Solo especifica el tamaño del margen en la parte superior de la caja.
+
+Ejemplo:
+
+margin-top: 3vh
+
+margin-bottom
+Solo especifica el tamaño del margen en la parte inferior de la caja.
+
+Ejemplo:
+
+margin-bottom: 50%
+
+margin-left
+Solo especifica el tamaño del margen en el lado izquierdo de la caja.
+
+Ejemplo:
+
+margin-left: 8px
+
+margin-right
+Solo especifica el tamaño del margen en el lado derecho de la caja.
+
+Ejemplo:
+
+margin-right: 3vw
+
+margin: tamaño
+Especifica el mismo tamaño de margen arriba, abajo, a la izquierda y a la derecha.
+
+Ejemplo:
+
+margin: 1em
+El margen mide 1 renglón en todas las direcciones alrededor del elemento.
+
+margin: tam_vertical tam_horizontal
+tam_vertical es el tamaño de los márgenes superior e inferior.
+
+tam_horizontal es el tamaño de los márgenes izquierdo y derecho.
+
+Ejemplo:
+
+margin: 1em 2em
+El margen mide 1 renglón arriba y abajo, 2 renglones a la izquierda y derecha.
+
+margin: tam_arr tam_der tam_ab tam_izq
+tam_arr es el tamaño del márgen superior.
+
+tam_der es el tamaño del márgen derecho.
+
+tam_ab es el tamaño del márgen inferior.
+
+tam_izq es el tamaño del márgen izquierdo.
+
+Ejemplo:
+
+margin: 3em 2em 4em 1em
+El margen mide 3 renglones arriba, 2 a la derecha, 4 abajo y 1 a la izquierda.

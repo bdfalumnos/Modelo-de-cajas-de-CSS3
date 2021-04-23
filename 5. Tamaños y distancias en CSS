@@ -1,0 +1,29 @@
+Tamaños y distancias en CSS
+Hay algunas propiedades que expresan tamaños o distancias. Por ejemplo:
+
+font-size
+Indica el tamaño de letra.
+
+Los valores son números decimales, que opcionalmente son fraccionales y son seguidos sin espacio por las unidades de medición. Ejemplos: 3em, 2.4rem.
+
+El cero se puede expresar sin unidades; por ejemplo: 0.
+
+Algunas unidades de medición son:
+
+em
+La altura de un renglón de texto, usando el tamaño de letra del elemento.
+
+rem
+La altura de un renglón de texto, usando el tamaño de letra del elemento raíz (que en HTML, es el elemento html).
+
+vh
+1% de la altura del puerto de visión (la ventana).
+
+vw
+1% del ancho del puerto de visión (la ventana).
+
+%
+Porcentaje del espacio que el elemento padre permite que sus hijos ocupen.
+
+px
+Pixeles.

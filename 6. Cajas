@@ -1,0 +1,16 @@
+Cajas
+
+Margen
+  Borde
+   Relleno
+    contenido
+
+    
+Margen
+Es un espacio transparente que separa un elemento de otro.
+
+Borde
+Es una línea (que puede ser una figura con adornos) alrededor de un elemento.
+
+Relleno
+Es una espacio entre el contenido y el borde. Su color de fondo es el mismo que el color de fondo del contenido.

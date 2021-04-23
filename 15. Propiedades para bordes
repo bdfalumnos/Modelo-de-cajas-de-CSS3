@@ -1,0 +1,56 @@
+Propiedades para bordes
+Estilo Detallado
+border-top-width
+Ancho del borde en la parte superior de la caja.
+
+border-top-style
+Estilo del borde en la parte superior de la caja.
+
+border-top-color
+Color del borde en la parte superior de la caja.
+
+border-bottom-width
+Ancho del borde en la parte inferior de la caja.
+
+border-bottom-style
+Estilo del borde en la parte inferior de la caja.
+
+border-bottom-color
+Color del borde en la parte inferior de la caja.
+
+border-left-width
+Ancho del borde en el lado izquierdo de la caja.
+
+border-left-style
+Estilo del borde en el lado izquierdo de la caja.
+
+border-left-color
+Color del borde en el lado izquierdo de la caja.
+
+border-right-width
+Ancho del borde en el lado derecho de la caja.
+
+border-right-style
+Estilo del borde en el lado derecho de la caja.
+
+border-right-color
+Color del borde en el lado derecho de la caja.
+
+Combinando las Partes del Borde
+Combina las tres partes de un borde. Las partes pueden ir en cualquier orden y 1 o 2 de los valores pueden faltar, en cuyo caso se toman los valores por omisión (medium, none y color actual).
+
+border-top
+Ancho, estilo y color del borde en la parte superior de la caja.
+
+border-bottom
+Ancho, estilo y color del borde en la parte inferior de la caja.
+
+border-left
+Ancho, estilo y color del borde en el lado izquierdo de la caja.
+
+border-right
+Ancho, estilo y color del borde en el lado derecho de la caja.
+
+border
+Ancho, estilo y color del borde único en las partes izquierda, derecha, superior e inferior de la caja.
+

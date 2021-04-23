@@ -1,0 +1,29 @@
+La propiedad box-sizing
+width
+Ancho de un elemento. Se indica usando un número decimal, opcionalmente fraccionario, seguido de la unidad.
+
+Solo aplica para para los elementos con display block o inline-block.
+
+Ejemplo:
+
+width: 100%
+
+height
+Altura de un elemento. Se indica usando un número decimal, opcionalmente fraccionario, seguido de la unidad.
+
+Solo aplica para para los elementos con display block o inline-block.
+
+Ejemplo:
+
+height: 3em
+
+box-sizing
+Indica como calcular el tamaño de un componente. Aplica para las propiedades width y height.
+
+Los valores que puede tomar esta propiedad son:
+
+content-box
+El tamaño es solo el tamaño del contenido. Cuando en se especifica esta propiedad para un elemento, este es el valor que se utiliza (valor por omisión).
+
+border-box
+El tamaño incluye el tamaño del contenido, más el espacio ocupado por los bordes y el relleno.

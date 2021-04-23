@@ -1,0 +1,50 @@
+Partes de un borde
+Ancho
+Puede expresarse como un tamaño o con alguno de estos valores:
+
+thin
+Borde delgado.
+medium
+Borde de ancho mediano.
+thick
+Borde grueso.
+Si no se pone, su valor por omisión es: medium.
+
+Estilo
+Puede expresarse con alguno de estos valores:
+
+none
+Sin borde.
+
+dotted
+El borde es una serie de puntos redondos.
+
+dashed
+El borde es una serie de guiones de esquinas cuadradas.
+
+solid
+El borde es una sola línea sólida.
+
+double
+El borde consiste en 2 líneas sólidas paralelas con espacio entre ellas.
+
+La suma del ancho de las líneas y espacio debe ser igual al ancho del borde.
+
+groove
+El borde parece como si estuviera tallado dentro de la superficie.
+
+ridge
+El borde parece como si saliera de la superficie.
+
+inset
+Parece como si el contenido dentro del borde estuviera hundido en la superficie.
+
+outset
+Parece como si el contenido dentro del borde saliera de la superficie.
+
+Si no se pone, su valor por omisión es: none.
+
+Color
+Se especifica como un color cualquiera.
+
+Si no se pone, su valor por omisión es el color del texto del elemento.
